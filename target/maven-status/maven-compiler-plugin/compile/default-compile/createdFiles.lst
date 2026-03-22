@@ -1,0 +1,7 @@
+com\example\memo\common\Result$ResultBuilder.class
+com\example\memo\common\Result.class
+com\example\memo\controller\MemoController.class
+com\example\memo\MemoApplication.class
+com\example\memo\entity\Memo$MemoBuilder.class
+com\example\memo\entity\Memo.class
+com\example\memo\service\MemoService.class
