@@ -1,0 +1,6 @@
+server:
+  port: 10013
+
+spring:
+  application:
+    name: memo-app
